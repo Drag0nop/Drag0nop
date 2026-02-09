@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects and improving my problem-solving skills  <br>👯 I’m looking to collaborate on open-source and research-based projects  <br>🤝 I’m looking for help with deep learning, model deployment, and internships  <br>🌱 I’m currently learning Transformer Basics <br>💬 Ask me about Python, Machine Learning, and projects  <br>⚡ Fun fact: I enjoy turning raw data into useful (and sometimes fun) solutions
+🔭 I’m currently working on projects and improving my problem-solving skills  <br>👯 I’m looking to collaborate on open-source and research-based projects  <br>🤝 I’m looking for help with model deployment and internships  <br>🌱 I’m currently learning Transformer Basics <br>💬 Ask me about Python, Machine Learning, and projects  <br>⚡ Fun fact: I enjoy turning raw data into useful (and sometimes fun) solutions
 
 
 ## 🌐 Socials:
