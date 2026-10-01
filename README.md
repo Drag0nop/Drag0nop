@@ -57,7 +57,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 
 ### ⚙️ Backend Development
 
@@ -106,9 +105,6 @@ A computer vision and 3D AI system that reconstructs and understands real-world 
 
 **Tech:** Python · PyTorch · OpenCV · FastAPI · Three.js
 
-🔗 **Repository:** [Coming Soon]
-🌐 **Live Demo:** [Coming Soon]
-
 ---
 
 ### 🔬 Research Copilot
@@ -127,9 +123,6 @@ A system designed to help researchers discover relevant papers, understand liter
 * 💡 Research-gap discovery
 
 **Tech:** Python · Transformers · RAG · FastAPI · Vector Database
-
-🔗 **Repository:** [Coming Soon]
-🌐 **Live Demo:** [Coming Soon]
 
 ---
 
