@@ -82,46 +82,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧠 SpatialMind AI
-
-**Intelligent 3D Scene Understanding Platform**
-
-A computer vision and 3D AI system that reconstructs and understands real-world scenes.
-
-**Key Features**
-
-* 📸 3D scene reconstruction
-* 🎯 Object detection and segmentation
-* 🧩 Semantic 3D scene understanding
-* 💬 Natural-language scene queries
-* 📏 Spatial measurements
-* 🌐 Interactive 3D visualization
-
-**Tech:** Python · PyTorch · OpenCV · FastAPI · Three.js
-
----
-
-### 🔬 Research Copilot
-
-**AI-powered research discovery and analysis platform**
-
-A system designed to help researchers discover relevant papers, understand literature and identify potential research gaps.
-
-**Key Features**
-
-* 📚 Research paper retrieval
-* 🔎 Semantic search
-* 📝 Paper summarization
-* 🧠 Knowledge extraction
-* 🔗 Research knowledge graph
-* 💡 Research-gap discovery
-
-**Tech:** Python · Transformers · RAG · FastAPI · Vector Database
-
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Drag0nop\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
